@@ -16,8 +16,8 @@ Support Version : Catalina 10.15.7 / Big Sur 11.0.1 ; Update to Big Sur 11.0.1 F
 * 神舟 G8-CT7NK
 
 ---
-
-基于  [ [lyj0309](https://github.com/lyj0309)/**[Hackintosh-CLEVO-H](https://github.com/lyj0309/Hackintosh-CLEVO-H)** ] 进行维护
+ 
+基于  [ [lyj0309](https://github.com/lyj0309)/**[Hackintosh-CLEVO-H](https://github.com/lyj0309/Hackintosh-CLEVO-H)** ] 进行维护  
 Maintaining and based on [ [lyj0309](https://github.com/lyj0309)/**[Hackintosh-CLEVO-H](https://github.com/lyj0309/Hackintosh-CLEVO-H)** ]
 
 ---
