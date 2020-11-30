@@ -17,8 +17,8 @@ Support Version : Catalina 10.15.7 / Big Sur 11.0.1 ; Update to Big Sur 11.0.1 F
 
 ---
 
-基于  [[lyj0309](https://github.com/lyj0309)/**[Hackintosh-CLEVO-H](https://github.com/lyj0309/Hackintosh-CLEVO-H)**] 进行维护
-Maintaining and based on [ [lyj0309](https://github.com/lyj0309)/**[Hackintosh-CLEVO-H](https://github.com/lyj0309/Hackintosh-CLEVO-H)**]
+基于  [ [lyj0309](https://github.com/lyj0309)/**[Hackintosh-CLEVO-H](https://github.com/lyj0309/Hackintosh-CLEVO-H)** ] 进行维护
+Maintaining and based on [ [lyj0309](https://github.com/lyj0309)/**[Hackintosh-CLEVO-H](https://github.com/lyj0309/Hackintosh-CLEVO-H)** ]
 
 ---
 
@@ -26,15 +26,21 @@ Maintaining and based on [ [lyj0309](https://github.com/lyj0309)/**[Hackintosh-C
 
 Notice: Remember to BACKUP!
 
-- 引导使用 [OpenCore](https://github.com/acidanthera/OpenCorePkg) 无图形界面；
-- 无线网卡完美驱动 Dell Wireless 1820A (可能需要修改 PCI 注册地址)；
-- 必须在安装（升级）前更换序列号；🚀️ （Must to renewal the SystemSerialNumber）
+- 引导使用 [ [OpenCore](https://github.com/acidanthera/OpenCorePkg) ] 无图形界面
+- 无线网卡完美驱动 Dell Wireless 1820A (可能需要修改 PCI 注册地址)
+- 必须在安装（升级）前更换序列号（Must to renewal the SystemSerialNumber before use）🚀️
 - HDMI 无法使用（独显直接输出）
 - 读卡器无法使用 （USB2.0 外置线路）
 - MiniDP 完美使用
 - Type-c 完美使用
 - USB 接口完美使用
-- 原机 Intel 无线网卡支持使用 [OpenIntelWireless/itlwm](https://github.com/OpenIntelWireless/itlwm) 进行驱动（需要自行安装）
+- 原机 Intel 无线网卡支持使用 [ [OpenIntelWireless/itlwm](https://github.com/OpenIntelWireless/itlwm) ] 进行驱动（需要自行安装）
 - 睡眠不完美
-- 需要禁用 CFG Lock
-- 需要关闭 VT-d
+- 需要禁用 CFG Lock（CFG Lock should be disabled）🚀️
+- 需要关闭 VT-d （VT-d should be disabled）🚀️
+
+---
+
+* 如需 Windows 下修改 config.plist 来修改序列号可以使用 [ [ic005k/QtOpenCoreConfig](https://github.com/ic005k/QtOpenCoreConfig) ]
+
+* [ [ic005k/QtOpenCoreConfig](https://github.com/ic005k/QtOpenCoreConfig) ] Could be used to edit config.plist to renewal the SystemSerialNumber
