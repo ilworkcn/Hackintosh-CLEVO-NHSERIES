@@ -42,5 +42,4 @@ Notice: Remember to BACKUP!
 ---
 
 * 如需 Windows 下修改 config.plist 来修改序列号可以使用 [ [ic005k/QtOpenCoreConfig](https://github.com/ic005k/QtOpenCoreConfig) ]
-
-* [ [ic005k/QtOpenCoreConfig](https://github.com/ic005k/QtOpenCoreConfig) ] Could be used to edit config.plist to renewal the SystemSerialNumber
+* [ [ic005k/QtOpenCoreConfig](https://github.com/ic005k/QtOpenCoreConfig) ] Could be used to edit config.plist for renewal the SystemSerialNumber on Windows Platform
