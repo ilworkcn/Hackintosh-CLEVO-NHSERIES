@@ -28,7 +28,7 @@ Notice: Remember to BACKUP!
 
 - 引导使用 [OpenCore](https://github.com/acidanthera/OpenCorePkg) 无图形界面；
 - 无线网卡完美驱动 Dell Wireless 1820A (可能需要修改 PCI 注册地址)；
-- 强烈建议更换三码；
+- 必须在安装（升级）前更换序列号；🚀️ （Must to renewal the SystemSerialNumber）
 - HDMI 无法使用（独显直接输出）
 - 读卡器无法使用 （USB2.0 外置线路）
 - MiniDP 完美使用
@@ -38,4 +38,3 @@ Notice: Remember to BACKUP!
 - 睡眠不完美
 - 需要禁用 CFG Lock
 - 需要关闭 VT-d
--
