@@ -31,7 +31,7 @@ Notice: Remember to BACKUP!
 - 必须在安装（升级）前更换序列号（Must to renewal the SystemSerialNumber before use）🚀️
 - HDMI 无法使用（独显直接输出）
 - 读卡器无法使用 （USB2.0 外置线路）
-- MiniDP 完美使用
+- MiniDP 无法使用（正在修复 / MiniDP Fixing Now）
 - Type-c 完美使用
 - USB 接口完美使用
 - 原机 Intel 无线网卡支持使用 [ [OpenIntelWireless/itlwm](https://github.com/OpenIntelWireless/itlwm) ] 进行驱动（需要自行安装）
