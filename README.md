@@ -1,4 +1,6 @@
 # Hackintosh-CLEVO-NHSERIES
+已退坑，暂停维护。
+This Repo WAS NO LONGER MAINTAINED
 
 支持黑苹果 Hackintosh Catalina 10.15.7 / Big Sur 11.0.1 / Catalina10.15.7 无痛升级至 Big Sur 11.0.1  
 Support Version : Catalina 10.15.7 / Big Sur 11.0.1 ; Update to Big Sur 11.0.1 From Catalina 10.15.7
